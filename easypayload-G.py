@@ -5,7 +5,7 @@
 # Easy payload G
 # This application requires metasploit to be installed.
 # Created by OPE (Other Peoples Enemy)
-# A hackpires production
+# 
 #
 #@@@@@@@@@@@@@@@@@@@@@@@@@
 
